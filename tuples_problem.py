@@ -1,0 +1,6 @@
+numbers = (10,20,30,40,50,60)
+max_num = max(numbers)
+min_num = min(numbers)
+print(numbers)
+print("Minimum number of this tuplex is :",min_num)
+print("Maximum number of this tuplex is :",max_num)
